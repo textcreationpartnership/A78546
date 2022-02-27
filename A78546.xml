@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sons of the east: being an epistle written in English by old Dr. Chamberlen (eldest scarlet of Europe) senior to all popes, cardinals, bishops, and doctors, now living.) To the synagogue of the Jews in London, being a remnant of the numerous people of Israel, scattered into all countries over the face of the earth; who were once the peculiar inheritance, and only beloved people (above the nations of the world) wisheth health, grace, and truth, from God the father of all, by the means of the true Messiah; whose coming Israel expects on earth, and Christians hope from heaven in glory. Amen.</title>
+            <author>Chamberlen, Peter, 1601-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78546</idno>
+            <idno type="STC">Wing C1905</idno>
+            <idno type="STC">ESTC R229531</idno>
+            <idno type="EEBO-CITATION">99895303</idno>
+            <idno type="PROQUEST">99895303</idno>
+            <idno type="VID">152619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2309:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sons of the east: being an epistle written in English by old Dr. Chamberlen (eldest scarlet of Europe) senior to all popes, cardinals, bishops, and doctors, now living.) To the synagogue of the Jews in London, being a remnant of the numerous people of Israel, scattered into all countries over the face of the earth; who were once the peculiar inheritance, and only beloved people (above the nations of the world) wisheth health, grace, and truth, from God the father of all, by the means of the true Messiah; whose coming Israel expects on earth, and Christians hope from heaven in glory. Amen.</title>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin, near the Black Bull, in the Old-Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Your most humble servant, in the Lord, Peter Chamberlen.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity and other religions --  Judaism --  Early works to 1800.</term>
+               <term>Judaism --  Relations --  Christianity --  Early works to 1800.</term>
+               <term>Judaism --  Doctrines --  Early works to 1800.</term>
+               <term>Dogma --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152619:1" rendition="simple:additions"/>
+            <head>THE SONS of the EAST: BEING An EPISTLE written in <hi>Engliſh</hi> by Old D<hi rend="sup">r</hi>. <hi>Chamberlen</hi> (Eldeſt <hi>Scarlet</hi> of <hi>Europe</hi>) <hi>Senior</hi> to all <hi>Popes, Cardinals, Biſhops,</hi> and <hi>Doctors,</hi> now living.) To the <hi>Synagogue</hi> of the <hi>Jews</hi> in <hi>London,</hi> being a <hi>Remnant</hi> of the numerous People of <hi>Iſrael,</hi> ſcattered into all Countries over the Face of the Earth; who were once the peculiar Inheritance, and on<g ref="char:EOLhyphen"/>ly Beloved People (above the Nations of the World) wiſheth Health, Grace, and Truth, from <hi>God</hi> the Father of All, by the Means of the True <hi>Meſſiah;</hi> whoſe Coming <hi>Iſrael</hi> expects on Earth, and <hi>Chriſtians</hi> hope from Heaven in Glory. <hi>AMEN.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Greatly Beloved Nation, and People moſt Honoured of</hi> God,</dateline>
+            </opener>
+            <p>I Dare not but Love, and Honour you; for <hi>Salva<g ref="char:EOLhyphen"/>tion is of the Jews,</hi> (John 4.22.) And in the <hi>Seed</hi> of <hi>Abraham,</hi> ſhall all <hi>Nations of the Earth be Bleſſed,</hi> (Gen. 22.18.).</p>
+            <p>I have heard, that ſome (of the moſt Wor<g ref="char:EOLhyphen"/>thy amongſt You) ha<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> made ſome Enquiry after a few <hi>Chriſtians,</hi> who keep the <hi>Sabbath</hi> of the Lord Your <hi>God,</hi> and Ours. Wherefore, (by the Provi<g ref="char:EOLhyphen"/>dence of <hi>God</hi>) having been the Firſt that endeavour<g ref="char:EOLhyphen"/>ed to reſcue that Commandment from the Triple-crowned-little Horns Change of Times, and Laws, as was foretold by your Prophet <hi>Daniel,</hi> (Chap. 7.25.)</p>
+            <p>I am in ſome hope, that <hi>God</hi> may provoke you to <hi>Jealouſie, by a People that were not then called his People,</hi> (Deut. 32.21.) And having been converſant with ſe<g ref="char:EOLhyphen"/>veral of your Nation in <hi>Italy, Germany,</hi> and the <hi>Low Countries,</hi> I think my ſelf the more engaged to ſalute you in mine own Native Country.</p>
+            <p>Of all the <hi>SYNAGOG<g ref="char:V">Ʋ</g>ES</hi> beyond Sea, I found the kindeſt, and civilleſt <hi>Reception</hi> at <hi>GEN<g ref="char:V">Ʋ</g>A,</hi> in <hi>Italy:</hi> Where (after a few words ſpoken in <hi>Itali<g ref="char:EOLhyphen"/>an</hi> to the whole <hi>Congregation,</hi> after they had inter<g ref="char:EOLhyphen"/>mitted their <hi>Devotions</hi>) I was invited to the Houſe of <hi>Rabbi ABRAHAM ATTIAS,</hi> the next Day after the <hi>Sabbath;</hi> where I met with 5 <hi>Rabbies</hi> more; purpoſely come together to hear what I would ſay, and to confer thereupon.</p>
+            <p>I had ſaluted them in the <hi>Synagogue,</hi> as the Belo<g ref="char:EOLhyphen"/>ved Nation of <hi>God,</hi> who once were the HEAD of all Nations; but asked of them, if they did not conſider, that now they were as the <hi>Tail</hi> of all, (<hi>Deut.</hi> 28.13.) and lived ſcattered in all Countries (as <hi>precario</hi>) by Permiſſion? And what Prophet, or Manifeſtation of <hi>Gods</hi> Love unto them had they found theſe 1600 Years, ſince the Crucifying of the <hi>Young Man</hi> (as they call him) at <hi>Jeruſalem?</hi> Were they ever ſo long kept from ſome Prophet, or Mani<g ref="char:EOLhyphen"/>feſtation of the Love of <hi>God,</hi> as ſince then? So now (being met) I came to cloſer Queſtions; and asked them, Whether it was not a wonder, that all Na<g ref="char:EOLhyphen"/>tions (except the JEWS) ſhould be willing to be<g ref="char:EOLhyphen"/>lieve in a JEW, though they hated the <hi>Nation?</hi> But the <hi>Jews</hi> (and none elſe) hated <hi>Him,</hi> who was of their own <hi>Fleſh</hi> and <hi>Blood.</hi> Whereupon (to take off the <hi>Obloquy</hi> of CHRISTIANITY) I told them, They muſt not think, that was the <hi>Chriſtian Religi<g ref="char:EOLhyphen"/>on,</hi> which they ſaw at <hi>Rome</hi> and <hi>Italy</hi> (in the <hi>Adorati<g ref="char:EOLhyphen"/>on</hi> of Croſſes, Images, Pictures, Reliques, Wafer-Gods of Fleſh and Blood, and the Virgin <hi>Mary,</hi> (Queen of <hi>Heaven</hi>) no more than we call it the <hi>Religion</hi> of the <hi>Jews,</hi> when they worſhipped <hi>BAALIM</hi> and <hi>ASHTAROTH,</hi> (1 Sam. 12.10.) <hi>&amp;c.</hi> We eſteem none to be <hi>Jews,</hi> but thoſe who live according to the <hi>Law</hi> of <hi>Moſes:</hi> So I would not have them eſteem any for <hi>Chriſtians,</hi> but thoſe (who in all things) were according to the <hi>Goſpel</hi> of <hi>Chriſt;</hi> of which they all did unanimouſly approve.</p>
+            <p>Then I ſaid, I pray let it be conſidered, what you can ſay for the Old <hi>Teſtament,</hi> that I cannot ſay for the New; Or what you can ſay againſt the <hi>New Teſtament,</hi> that I may not (by the ſame Rule) alleadge againſt the <hi>Old.</hi> Upon which the Learned <hi>Rabbi (Abraham Attias)</hi> lifted up his voice, and profeſſed, He never Read more excellent <hi>Rules</hi> of <hi>Righteouſneſs,</hi> and of <hi>Holineſs,</hi> than in the <hi>New Teſtament.</hi>
+            </p>
+            <p>I then proceeded, and ſaid, was it incredible, that a VIRGIN ſhould conceive without a <hi>Man?</hi> Was it not much more to believe a <hi>Woman</hi> made of the <hi>Rib</hi> of a <hi>Man?</hi> or a <hi>Man</hi> made of the <hi>Duſt</hi> of the <hi>Earth?</hi> Or the Earth to bring forth Bears, Lyons, Tigers, Elephants, and all Beaſts? And the Wa<g ref="char:EOLhyphen"/>ters to bring forth Whales, with all Fiſhes, and Fowles, <hi>&amp;c.</hi> as <hi>Moſes</hi> gives the Relation in the <hi>Firſt,</hi> and <hi>Second</hi> Chapters of <hi>Geneſis?</hi> But all things are poſſible to God, as the Angel told the <hi>Virgin,</hi> (Luke 1.34, 35, 36, 37.)</p>
+            <p>But I now Addreſs my ſelf unto you (moſt worthy and beloved Friends) when was, or ever will be, all the <hi>Promiſes,</hi> and <hi>Propheſies</hi> fulfilled, if not in <hi>Jeſus Chriſt?</hi> I ſhall onely offer ſome few to your Conſi<g ref="char:EOLhyphen"/>deration.</p>
+            <p>
+               <hi>Firſt,</hi> Gen. 3.15. <hi>I will put Enmity between Thee, and the Woman; and between thy Seed, and her Seed;
+<pb facs="tcp:152619:2"/>it ſhall bruiſe thy Head, and thou ſhalt bruiſe his Heel.</hi> Why did not God ſay, between Thee, and the Man; but between thee, and the Woman? And why not between His Seed, and Thy Seed; but between Her Seed, and Thy Seed? Was not the Woman her ſelf made of Man? And did not all the Generations ever ſince come from Man, as well as Woman, and begot of Man, except the onely Firſt-Born of his Mother <hi>Mary?</hi> Is it not (in effect) the ſame with the Prophet Iſaiah, (Chap. 7.14.) <hi>A Virgin ſhall con<g ref="char:EOLhyphen"/>ceive, and bear a Son, and ſhall call his Name Emma<g ref="char:EOLhyphen"/>nuel.</hi> When was this performed, if not in <hi>Jeſus Chriſt?</hi> Or if it were yet to be performed, could it be more exactly fulfilled than in Him?</p>
+            <p>
+               <hi>Secondly,</hi> Gen. 22.18. <hi>In thy Seed ſhall all the Na<g ref="char:EOLhyphen"/>tions of the Earth be Bleſſed.</hi>
+            </p>
+            <list>
+               <item>1. Note, He ſaith not <hi>in thy Seeds</hi> (as many) but <hi>Seed</hi> (as one, <hi>Gal.</hi> 3.16.)</item>
+               <item>2. Note, That though it were to be the <hi>Seed</hi> of the Woman, a VIRGIN; yet ſhe ſhould deſcend from him; and ſo that which was Born of her, muſt needs be of his <hi>Seed</hi> alſo.</item>
+            </list>
+            <p>
+               <hi>Thirdly,</hi> In like manner of <hi>David:</hi> The <hi>Virgin</hi> was of the <hi>Lineage</hi> of <hi>David,</hi> and ſo was <hi>Joſeph</hi> (his ſuppoſed Father) that <hi>Jeſus</hi> might be the Son of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> and King of the <hi>Jews,</hi> by Inheritance, <hi>Pſal.</hi> 89.3, 4.</p>
+            <p>
+               <hi>Fourthly, Deut.</hi> 18.15. <hi>Moſes</hi> teſtifieth, <hi>a Prophet will the Lord thy God raiſe up unto Thee, from the midſt of Thee, of thy Brethren, like unto Me, unto Him ſhall ye hearken.</hi> Now, who of all the Prophets was like unto <hi>Moſes,</hi> unleſs you allow of <hi>Jeſus Chriſt?</hi> Whom the Jewiſh Apoſtles (<hi>Peter</hi> and <hi>John</hi>) urged to your Nation, perſwading them to believe in him, <hi>Acts</hi> 3.22, 23. And (<hi>Acts.</hi> 7.37.) urged in like manner, by the Zealous <hi>Jew, Stephen;</hi> who was murder'd by the People, and High Prieſts, for reproving them of their murthering the Prophets, and their unbe<g ref="char:EOLhyphen"/>lief. With this alſo agrees (Iſa. 33.22.) <hi>The Lord is our Judge; The Lord is our Law-giver,</hi> (or Statute-maker;) <hi>The Lord is our King, and he will ſave us.</hi> So <hi>Jam.</hi> 4.12. Joh. 12.48.</p>
+            <p>
+               <hi>Fifthly, Pſal.</hi> 2. All along foretelleth the Lord <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt;</hi> the Kings and Peoples dealing with him, as hath been ſince performed. And more, that <hi>God</hi> calls him there his Son, <hi>This day have I begotten Thee,</hi> (verſ. 7.) <hi>Ask of me, and I will give thee the Heathen for an Inheritance,</hi> (verſ. 8.) Is not this fulfilled, when the Heathen believe, and obey him, but the Jews do not?</p>
+            <p>
+               <hi>Sixthly, Pſa.</hi> 22. Is a Propheſie of the ſufferings of <hi>Jeſus: They pierced my Hands, and my Feet,</hi> (verſ. 16.) <hi>They parted my Garments amongſt them, and caſt Lots upon my Veſture,</hi> (v. 18.) Is not the Hiſtory in the very ſame Words? <hi>Mat.</hi> 27. <hi>Mark.</hi> 15. <hi>Luk.</hi> 23. <hi>John</hi> 19.</p>
+            <p>
+               <hi>Seventhly, Pſa.</hi> 110.1. <hi>The Lord ſaid unto my Lord, Sit thou on my right Hand, until I make thy Foes thy Foot<g ref="char:EOLhyphen"/>ſtool.</hi> Of whom is this ſpoken, if not of <hi>Jeſus Chriſt? If</hi> David <hi>then call him Lord, how is he his Son?</hi> (Mat. 22.45.) which is more plainly amplified by your Di<g ref="char:EOLhyphen"/>vine Prophet (Iſa. 9.6.) <hi>To us a Child is Born; to us a Son is given; and the Government ſhall be upon his ſhoul-ſhoulder: His Name ſhall be called Wonderful, Coun<g ref="char:EOLhyphen"/>ſellor, the mighty God, the everlaſting Father</hi> (or Fa<g ref="char:EOLhyphen"/>ther of Eternity) <hi>the Prince of Peace.</hi> Can all this be ſaid of <hi>God?</hi> Or can it poſſibly be ſaid of any o<g ref="char:EOLhyphen"/>ther <hi>Man,</hi> but <hi>Jeſus Chriſt, Immanuel,</hi> the Son of <hi>God,</hi> the Seed of the Woman, and Virgin, the Seed of <hi>Abraham</hi> in whom all the Nations of the Earth are bleſſed? Can you believe all thoſe things in <hi>Gods</hi> Promiſes, and not in Gods Performances? Do you believe them in <hi>God's</hi> Propheſies, and not in <hi>Gods</hi> Fulfillings? The <hi>New Teſtament</hi> is but the fulfilling of the <hi>Old.</hi> How have you loſt that value you once put upon all Gods Words? was not <hi>Chriſt's</hi> Obſcu<g ref="char:EOLhyphen"/>rity, ſufferings, the <hi>Jews</hi> cruelty (<hi>Iſa.</hi> 53.2, 3, 4, 5.) togeather with the <hi>Jews</hi> Unbelief, and Hardneſs of Heart, all foretold; That they ſhould not believe it, though a Man declare it unto them? <hi>Hab.</hi> 1.5. <hi>Acts</hi> 13.40, 41. Thus you find it, and yet do not believe your ſelves.</p>
+            <p>
+               <hi>Dearly beloved Nation!</hi> Strive not ſo eagerly a<g ref="char:EOLhyphen"/>gainſt your own Salvation. <hi>Jonas</hi> was <hi>Three</hi> Days, and <hi>Three</hi> Nights in the <hi>Whales</hi> Belly (<hi>Jh.</hi> 1.17.) And ſo long was CHRIST in his <hi>Tomb,</hi> (<hi>Mat.</hi> 12.40. Ch. 27.63.) <hi>Elias</hi> was carri<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to Heaven in a Fiery Charriot, (2 <hi>Kings</hi> 2.11.) And CHRIST aſcend<g ref="char:EOLhyphen"/>ed up into Heaven in a Cloud, (<hi>Acts</hi> 1.9.)</p>
+            <p>How long have ye been without an <hi>Ephod,</hi> and a <hi>Teraphim, (Hoſ.</hi> 3.4.) and not ſenſible of it? How long have ye been without Prophets, and immediate Re<g ref="char:EOLhyphen"/>velations, and Signes from Heaven to you in per<g ref="char:EOLhyphen"/>ticular? How long is the Scepter departed from <hi>Juda?</hi> How long will ye wait for your <hi>Shiloh?</hi> Gen. 49.10. How long for your <hi>Meſſiah,</hi> and refuſe him that is ſo long ſince come unto you? will ye needs delay till ye look on Him, whom your Fathers have pierced? <hi>Zach.</hi> 12.10. If you would know more particulars, command</p>
+            <closer>
+               <signed>
+                  <hi>Moſt Honoured Nation, Your moſt Humble Servant, in the Lord,</hi> Peter Chamberlen.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Black Bull,</hi> in the <hi>Old-Bayly,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
